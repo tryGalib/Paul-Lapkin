@@ -211,6 +211,11 @@ section {
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+.ham-menu-nav-items ul {
+  padding: 0;
 }
 
 .ham-menu-nav ul li {
