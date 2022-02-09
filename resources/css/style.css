@@ -60,6 +60,10 @@ h6 {
   line-height: 1em;
 }
 
+ul {
+  padding: 0;
+}
+
 ion-icon {
   pointer-events: none;
 }
