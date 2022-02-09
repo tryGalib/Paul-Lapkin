@@ -763,7 +763,8 @@ button.mixitup-control-active {
   left: 0;
   display: inline-block;
   height: 1.8rem;
-  border: 0.1rem solid rgba(255, 255, 255, 0.8);
+  border: 0.1rem solid #dbdbdb;
+  background-color: #dbdbdb;
 }
 
 #footer .social-icons ul li:hover a ion-icon {

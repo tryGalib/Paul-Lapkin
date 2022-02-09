@@ -85,6 +85,7 @@
 
   #tm {
     background: linear-gradient( rgba(100, 203, 193, 0.45), rgba(100, 203, 193, 0.2) );
+    background: linear-gradient( #a7c6c3, #c6d1d0 );
   }
 
   #tm .tm-grid {
